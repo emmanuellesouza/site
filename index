@@ -10,10 +10,17 @@
             <link rel=”preconnect” href=”https://fonts.gstatic.com” crossorigin>
             <link href=”https://fonts.googleapis.com/  
 css2?family=Poppins:wght@300;400;500;700&display=swap” rel=”stylesheet”>
-            <link rel=”stylesheet” href=”reset.css”>
-        </head>
+            <link rel=”stylesheet” href=”https://cdn.jsdelivr.net/npm/swiper@8/
+swiper-bundle.min.css”/>
+            <link rel=”stylesheet” href=”styles.css”>
+            <link
+              rel="stylesheet"
+              href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+            />
 
-    <body>
+            <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+        </head>
+   <body>
         <header class=”cabeçalho”>
             <span class=”cabeçalho__menu-hamburguer”></span>
             <div class=”container”>
@@ -55,6 +62,9 @@ placeholder=”Qual será sua próxima leitura?”>
         </section>
     </body>
 </html>
-<section class=”carrossel”>
-    <h2 class=”carrossel__titulo”>Novos lançamentos</h2>
-</section>
+    <section class=”carrossel”>
+        <h2 class=”carrossel__titulo”>Novos lançamentos</h2>
+    </section>
+    <script src=”https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js”></script>
+    </body>
+</html>
